@@ -1,0 +1,6 @@
+D:\Bridgelabz\CFP-02\CommonLayer\bin\Debug\CommonLayer.dll
+D:\Bridgelabz\CFP-02\CommonLayer\bin\Debug\CommonLayer.pdb
+D:\Bridgelabz\CFP-02\CommonLayer\obj\Debug\CommonLayer.csproj.AssemblyReference.cache
+D:\Bridgelabz\CFP-02\CommonLayer\obj\Debug\CommonLayer.csproj.CoreCompileInputs.cache
+D:\Bridgelabz\CFP-02\CommonLayer\obj\Debug\CommonLayer.dll
+D:\Bridgelabz\CFP-02\CommonLayer\obj\Debug\CommonLayer.pdb

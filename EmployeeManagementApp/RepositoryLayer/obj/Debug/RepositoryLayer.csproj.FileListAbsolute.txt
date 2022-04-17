@@ -1,0 +1,14 @@
+D:\Bridgelabz\CFP-02\RepositoryLayer\bin\Debug\RepositoryLayer.dll.config
+D:\Bridgelabz\CFP-02\RepositoryLayer\bin\Debug\RepositoryLayer.dll
+D:\Bridgelabz\CFP-02\RepositoryLayer\bin\Debug\RepositoryLayer.pdb
+D:\Bridgelabz\CFP-02\RepositoryLayer\bin\Debug\CommonLayer.dll
+D:\Bridgelabz\CFP-02\RepositoryLayer\bin\Debug\EntityFramework.dll
+D:\Bridgelabz\CFP-02\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bridgelabz\CFP-02\RepositoryLayer\bin\Debug\CommonLayer.pdb
+D:\Bridgelabz\CFP-02\RepositoryLayer\bin\Debug\EntityFramework.xml
+D:\Bridgelabz\CFP-02\RepositoryLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bridgelabz\CFP-02\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Bridgelabz\CFP-02\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Bridgelabz\CFP-02\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CopyComplete
+D:\Bridgelabz\CFP-02\RepositoryLayer\obj\Debug\RepositoryLayer.dll
+D:\Bridgelabz\CFP-02\RepositoryLayer\obj\Debug\RepositoryLayer.pdb

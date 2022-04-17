@@ -1,0 +1,14 @@
+D:\Bridgelabz\CFP-02\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Bridgelabz\CFP-02\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Bridgelabz\CFP-02\BusinessLayer\bin\Debug\CommonLayer.dll
+D:\Bridgelabz\CFP-02\BusinessLayer\bin\Debug\RepositoryLayer.dll
+D:\Bridgelabz\CFP-02\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Bridgelabz\CFP-02\BusinessLayer\bin\Debug\CommonLayer.pdb
+D:\Bridgelabz\CFP-02\BusinessLayer\bin\Debug\RepositoryLayer.pdb
+D:\Bridgelabz\CFP-02\BusinessLayer\bin\Debug\RepositoryLayer.dll.config
+D:\Bridgelabz\CFP-02\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Bridgelabz\CFP-02\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Bridgelabz\CFP-02\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Bridgelabz\CFP-02\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Bridgelabz\CFP-02\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Bridgelabz\CFP-02\BusinessLayer\obj\Debug\BusinessLayer.pdb
